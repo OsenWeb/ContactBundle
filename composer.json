@@ -1,0 +1,19 @@
+{
+  "name": "osen/contact-bundle",
+  "description": "The Symfony Contact Bundle",
+  "keywords": ["osen", "contact", "bundle"],
+  "homepage": "https://github.com/OsenWeb/ContactBundle",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Osen.web",
+      "email": "office@osen.com.ua"
+    }
+  ],
+  "require": {
+    "symfony/framework-bundle": "~2.0"
+  },
+  "autoload": {
+    "psr-4": {"Osen\\ContactBundle\\": ""}
+  }
+}
